@@ -1,3 +1,4 @@
 This is a random text file created for practicing git.
 With some extra information
+This version was editied in sample branch and in future may be added to main branch
 version 2
